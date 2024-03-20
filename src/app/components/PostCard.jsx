@@ -52,7 +52,7 @@ you where you work. It is only a keystroke away.
           </Typography>
                   <Box py={4} sx={{ display: 'flex', justifyContent: 'space-between' }}>
                       <Box sx={{ display: 'flex', alignItems: 'center' }}>
-                          <img src={clock.src} alt="time" className='mb-2px]' />
+                          <img src={clock.src} alt="time" className='mb-[2px]' />
                           <Typography variant="body2" color="text.secondary" sx={{ ml: 1, fontSize: '12px', fontWeight: '400' }}>
                               22 April 2021
                           </Typography>
