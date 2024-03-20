@@ -3,7 +3,6 @@ import "./globals.css";
 import { AppRouterCacheProvider } from '@mui/material-nextjs/v13-appRouter';
 import { ThemeProvider } from "@mui/material/styles";
 import theme from "@/theme/theme";
-import ProductDetail from "./components/ProductDetailPage";
 import StoreProvider from "./StoreProvider";
 import { Metadata } from "next";
 
