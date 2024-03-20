@@ -45,12 +45,10 @@ export default function PostCard({img}) {
         </Box>
           <Typography gutterBottom variant="span" component="div" className="text-[20px] font-[400] text-[#252B42]">
             Loudest à la Madison #1 
-                (L integral)
           </Typography>
           <Typography variant="span" className="text-[14px] font-[400] text-[#737373]">
           We focus on ergonomics and meeting 
-you where you work. It is only a 
-keystroke away.
+you where you work. It is only a keystroke away.
           </Typography>
                   <Box py={4} sx={{ display: 'flex', justifyContent: 'space-between' }}>
                       <Box sx={{ display: 'flex', alignItems: 'center' }}>
