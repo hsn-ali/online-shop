@@ -26,10 +26,12 @@ export default function ProductDetails({ params }) {
     }
 
     useEffect(() => {
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         fetchProductById();
     }, [])
 
     useEffect(() => {
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         setRemainingImages(product?.images?.filter((_, index) => index !== currentImageIndex));
     }, [currentImageIndex]);
 
