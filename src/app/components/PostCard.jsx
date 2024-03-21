@@ -29,7 +29,7 @@ export default function PostCard({img}) {
                 variant="span"
                 className='text-[12px] font-[400] text-[#8EC2F2]'
             >
-            Google
+            Google heelllooo
             </Typography>
             <Typography
                 variant="span"
