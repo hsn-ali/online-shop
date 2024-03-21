@@ -12,6 +12,7 @@ import more from "../../assets/post/more.svg";
 
 export default function PostCard({img}) {
   return (
+    // hello
     <Card className='m-4'>
       <CardActionArea>
         <CardMedia
